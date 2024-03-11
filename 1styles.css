@@ -1,0 +1,39 @@
+body {
+    font-family: "Lato", sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: aquamarine;
+  }
+  header {
+    padding: 20px;
+    background-color: #333;
+    text-align: center;
+  }
+  nav {
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(8, 230, 211);
+    flex: 20px;
+    text-align: center;
+    text-decoration-color: rgb(255, 255, 255);
+  }
+  nav a {
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+  }
+  aside {
+    flex: 30px;
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    text-decoration-color: azure;
+  }
+  
+  footer {
+    padding: 20px;
+    background-color: rgb(8, 230, 211)
+    text-align center;
+  }
+  
+
